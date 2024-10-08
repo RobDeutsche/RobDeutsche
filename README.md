@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobDeutsche
 - 👀 I’m interested in AI/ML + Data Science applications + Exploring and understanding the API landscape.
-- 🌱 I’m currently taking an experimental CS course...back in the classroom at age 39.  Never too late!  I also listen to a lot of Podcasts related to tech, spend a lot of time in Postman and read as much as I can.
+- 🌱 I’m currently a working professional (Enterprise Sales Engineer) and taking CS classes on the side for fun.
 - 💞️ I’m looking to collaborate on anything interesting that helps me learn.
 
 <!---
